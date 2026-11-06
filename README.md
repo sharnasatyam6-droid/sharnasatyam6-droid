@@ -1,8 +1,3 @@
-<!-- =========================================================
-  SATYAM.DEV // CYBERPUNK PROFILE
-  Edit the text, links, and technologies as your journey grows.
-========================================================== -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:05000D,18:16002B,48:4B168C,76:075A9E,100:00D9FF&text=SATYAM.DEV&fontColor=FFFFFF&fontSize=88&fontAlignY=38&desc=THE%20FUTURE%20IS%20BUILT%20ONE%20COMMIT%20AT%20A%20TIME&descSize=16&descAlignY=59&animation=fadeIn&stroke=00D9FF&strokeWidth=1" alt="SATYAM.DEV cyberpunk banner"/>
