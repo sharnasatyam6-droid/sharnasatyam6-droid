@@ -194,7 +194,7 @@ Exploring a future where multiple AI agents can collaborate, delegate work, shar
 
 <img src="https://img.shields.io/github/followers/sharnasatyam6-droid?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6&labelColor=090014" alt="GitHub followers"/>
 <img src="https://img.shields.io/github/stars/sharnasatyam6-droid?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=00BDEB&labelColor=090014" alt="GitHub stars"/>
-<img src="https://img.shields.io/github/repos/sharnasatyam6-droid?style=for-the-badge&logo=github&label=PUBLIC%20REPOS&color=9D4EDD&labelColor=090014" alt="Public repositories"/>
+<a href="https://github.com/sharnasatyam6-droid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PUBLIC%20REPOSITORIES-9D4EDD?style=for-the-badge&logo=github&logoColor=white&labelColor=090014" alt="Explore public repositories"/></a>
 
 <br/><br/>
 
