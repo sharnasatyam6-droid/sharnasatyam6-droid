@@ -188,18 +188,23 @@ Exploring a future where multiple AI agents can collaborate, delegate work, shar
 
 ## ░▒▓ GITHUB TELEMETRY ▓▒░
 
-*Live cards generated from GitHub activity. External services may occasionally be unavailable.*
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharnasatyam6-droid&show_icons=true&hide_border=true&bg_color=090014&title_color=00E5FF&icon_color=9D4EDD&text_color=EDE9FE&ring_color=00E5FF&include_all_commits=true" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharnasatyam6-droid&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=EDE9FE" alt="Top languages"/>
+*Your activity, straight from GitHub.*
+
+<img src="https://img.shields.io/github/followers/sharnasatyam6-droid?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B5CF6&labelColor=090014" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/sharnasatyam6-droid?style=for-the-badge&logo=github&label=TOTAL%20STARS&color=00BDEB&labelColor=090014" alt="GitHub stars"/>
+<img src="https://img.shields.io/github/repos/sharnasatyam6-droid?style=for-the-badge&logo=github&label=PUBLIC%20REPOS&color=9D4EDD&labelColor=090014" alt="Public repositories"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sharnasatyam6-droid&hide_border=true&background=090014&ring=9D4EDD&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=EDE9FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=sharnasatyam6-droid&hide_border=true&background=090014&ring=9D4EDD&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=EDE9FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharnasatyam6-droid&bg_color=090014&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution graph"/>
+**Contribution history:** GitHub automatically displays your real contribution calendar on your profile page. It does not need a third-party image service.
+
+<a href="https://github.com/sharnasatyam6-droid?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-090014?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 
 </div>
 
